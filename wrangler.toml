@@ -1,4 +1,4 @@
-name = "my-worker"
+name = "freqs"
 main = "dist/index.js"
 compatibility_date = "2023-09-04"
 

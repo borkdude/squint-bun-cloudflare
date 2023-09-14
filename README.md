@@ -7,4 +7,4 @@ To deploy to cloudflare, run `bun wrangler deploy`.
 
 The [squint](https://github.com/squint-cljs/squint) code is located in `src/index.cljs`.
 
-The worker is visible [here](https://my-worker.borkdude.workers.dev/?input=hellooo).
+The worker is visible [here](https://freqs.borkdude.workers.dev/?input=hellooo).
